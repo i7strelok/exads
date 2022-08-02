@@ -3,6 +3,12 @@ Exads technical test exercises
 
 Technical test - Clarifications 
 
+
+Requirements: 
+
+AB Test Data must be installed for the correct operation of exercise 4. 
+To see the official information follow the following link: https://github.com/EXADS/ab-test-data
+
 Technical details:
 
 1) It was used PHP 8.0.3 for doing this technical test with Visual Studio Code as code edit.
@@ -25,3 +31,5 @@ Peculiarities of the exercises:
         I would create a "channels" table and create an N to M relationship between the series and the channels, in such a way that N series are transmitted on a channel and the same series can be transmitted on N channels.
 
 3) Exercise nº2: Print an array containing all the ASCII characters from ',' to '|'. Subsequently, a string is printed that contains the information of the missing character.  It has been interpreted that the function in charge of looking for the removed ASCII character and then returning it knows that the array starts at ',' up to '|.
+
+
