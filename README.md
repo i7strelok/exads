@@ -11,7 +11,7 @@ To see the official information follow the following link: https://github.com/EX
 
 Technical details:
 
-1) It was used PHP 8.0.3 for doing this technical test with Visual Studio Code as code edit.
+1) PHP 8.0.3 was used for doing this technical test with Visual Studio Code as code edit.
 
 2) Naming conventions have been respected, such as PSR1, PSR2, PSR4.
 
